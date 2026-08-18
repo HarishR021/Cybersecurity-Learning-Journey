@@ -105,6 +105,59 @@ Developed a strong understanding of how modern web applications manage users, se
 
 ---
 
+## Day 04 – Web Application Security Fundamentals
+
+Topics Covered:
+
+### Security Fundamentals
+
+- Asset
+- Threat
+- Vulnerability
+- Risk
+
+### Threat Modeling
+
+- Identifying Assets
+- Identifying Threats
+- Identifying Vulnerabilities
+- Risk Assessment
+
+### OWASP
+
+- OWASP Introduction
+- OWASP Top 10 Overview
+- Importance of Secure Development
+
+### SQL Injection
+
+- SQL Injection Fundamentals
+- How SQL Injection Occurs
+- SQL Query Manipulation
+- Parameterized Queries
+- SQL Injection Prevention
+
+### Cross-Site Scripting (XSS)
+
+- XSS Introduction
+- Stored XSS
+- Reflected XSS
+- DOM-Based XSS
+- Browser-Side Execution
+
+### Secure Development
+
+- Input Validation
+- Secure Coding Practices
+- User Input Handling
+- Security Mindset
+
+Learning Outcome:
+
+Developed a foundational understanding of web application security, common web vulnerabilities, threat modeling, OWASP guidance, secure coding practices, and user input protection mechanisms.
+
+
+
 # 📂 Repository Structure
 
 ```
@@ -138,11 +191,11 @@ Each day folder contains:
 # 🚀 Current Progress
 
 | Day | Status |
-|------|---------|
+|-----|--------|
 | Day 01 | ✅ Completed |
 | Day 02 | ✅ Completed |
 | Day 03 | ✅ Completed |
-| Day 04 | 🔄 In Progress |
+| Day 04 | ✅ Completed |
 | Day 05–10 | ⏳ Planned |
 
 ---
